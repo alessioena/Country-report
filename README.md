@@ -2,7 +2,6 @@
 
 This is an International Economics and Policy report of Austria made using STATA.
 
-- Data: 2019
 - Source of the data: comtrade.un.org
 - Language of the report: Italiano
 
